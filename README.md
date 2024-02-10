@@ -8,5 +8,5 @@
 
 ### Tech Stacks
 
-[[file:///C:/Users/K%20ARHANT/Downloads/React.svg]]
+[file:///C:/Users/K%20ARHANT/Downloads/React.svg]
 
