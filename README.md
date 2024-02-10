@@ -8,5 +8,5 @@
 
 ### Tech Stacks
 
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&fontFamily=Helvetica&lineCount=1)
+[[file:///C:/Users/K%20ARHANT/Downloads/React.svg]]
 
